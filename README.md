@@ -1,7 +1,7 @@
 # web-fusee-launcher
 Fusee Launcher, in a browser! Also The Downloadable HTML Version!
 
-#Download
+# Download
 If you want to download the HTML file then use [this](https://raw.githubusercontent.com/KnightryryV2/web-fusee-launcher-into-one-html/master/Offline/index.html) link then press CTRL + S to download it
 
 # Description
